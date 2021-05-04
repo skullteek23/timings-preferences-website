@@ -1,9 +1,9 @@
 <?php
 
 define('DB_SERVER', 'localhost');
-define('DB_USERNAME', 'root');
-define('DB_PASSWORD', '');
-define('DB_NAME', 'freekyk');
+define('DB_USERNAME', 'id16750019_tpbmn321');
+define('DB_PASSWORD', '~$LQlKPA6f&3c%WG');
+define('DB_NAME', 'id16750019_freekyk');
  
 /* Attempt to connect to MySQL database */
 $con = mysqli_connect(DB_SERVER, DB_USERNAME, DB_PASSWORD, DB_NAME);
